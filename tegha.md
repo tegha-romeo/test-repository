@@ -9,3 +9,4 @@ let take an illustration of this:
 a) using **word to be bold**
 b) using ***word to be bold and italics*** Or
 c) using ___word to be bold italics___
+using 
